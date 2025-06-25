@@ -69,3 +69,17 @@
 [25Jun2025 01:00:49.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShamashGG joined the game
 [25Jun2025 01:01:25.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ShamashGG a server operator
 [25Jun2025 01:01:31.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ShamashGG: Set own game mode to Creative Mode]
+[25Jun2025 01:08:13.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShamashGG> zxad
+[25Jun2025 01:10:12.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShamashGG lost connection: Disconnected
+[25Jun2025 01:10:12.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShamashGG left the game
+[25Jun2025 01:10:52.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Jun2025 01:10:53.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Jun2025 01:10:53.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Jun2025 01:10:53.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Jun2025 01:10:53.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Jun2025 01:10:55.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Jun2025 01:10:55.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Jun2025 01:10:55.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Jun2025 01:10:55.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Jun2025 01:10:55.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Jun2025 01:10:55.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
